@@ -1,0 +1,32 @@
+# Number
+
+## JS
+
+1. 基本数据类型
+- Number
+- String
+- Boolean
+- Undefine
+- Null
+- Symbol
+2. 复杂数据类型
+- Object
+- Function
+- Array
+
+## python
+
+1. 标准数据类型
+- Number（数字）
+- String（字符串）
+- List（列表）
+- Tuple（元组）
+- Set（集合）
+- Dictionary（字典）
+
+>Python3 的六个标准数据类型中：  
+>不可变数据（3 个）：Number（数字）、String（字符串）、Tuple（元组）；  
+>可变数据（3 个）：List（列表）、Dictionary（字典）、Set（集合）。
+
+
+2. 
